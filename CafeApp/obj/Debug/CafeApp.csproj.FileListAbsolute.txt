@@ -1,0 +1,16 @@
+C:\Users\GENC\source\repos\CafeApp\CafeApp\bin\Debug\CafeApp.exe.config
+C:\Users\GENC\source\repos\CafeApp\CafeApp\bin\Debug\CafeApp.exe
+C:\Users\GENC\source\repos\CafeApp\CafeApp\bin\Debug\CafeApp.pdb
+C:\Users\GENC\source\repos\CafeApp\CafeApp\bin\Debug\EntityFramework.dll
+C:\Users\GENC\source\repos\CafeApp\CafeApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GENC\source\repos\CafeApp\CafeApp\bin\Debug\EntityFramework.xml
+C:\Users\GENC\source\repos\CafeApp\CafeApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GENC\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.csprojAssemblyReference.cache
+C:\Users\GENC\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.Form1.resources
+C:\Users\GENC\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.Properties.Resources.resources
+C:\Users\GENC\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.csproj.GenerateResource.cache
+C:\Users\GENC\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.csproj.CoreCompileInputs.cache
+C:\Users\GENC\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.csproj.CopyComplete
+C:\Users\GENC\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.exe
+C:\Users\GENC\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.pdb
+C:\Users\GENC\source\repos\CafeApp\CafeApp\obj\Debug\CafeApp.Table.resources
